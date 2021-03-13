@@ -12,11 +12,11 @@
 γνωριμια ομαδας ,δημιουργια discord server
 αναθεση ρόλων,δημιουργια repository
 
-project manager:ΠΕΤΚΑΡΗΣ ΑΓΓΕΛΟΣ
-UX designer:ΚΟΚΚΙΝΟΣ ΒΑΓΓΕΛΗΣ
-software dev frontend:ΓΙΩΤΑΣ ΑΛΕΞΑΝΔΡΟΣ
-software dev backend:ΤΣΑΛΙΚΗΣ ΕΥΣΤΡΑΤΙΟΣ
-testing:ΠΑΠΑΔΟΠΟΥΛΟΣ ΣΤΥΛΙΑΝΟΣ
+project manager:ΠΕΤΚΑΡΗΣ ΑΓΓΕΛΟΣ\n
+UX designer:ΚΟΚΚΙΝΟΣ ΒΑΓΓΕΛΗΣ\n
+software dev frontend:ΓΙΩΤΑΣ ΑΛΕΞΑΝΔΡΟΣ\n
+software dev backend:ΤΣΑΛΙΚΗΣ ΕΥΣΤΡΑΤΙΟΣ\n
+testing:ΠΑΠΑΔΟΠΟΥΛΟΣ ΣΤΥΛΙΑΝΟΣ\n
 
 μελλοντικοι στοιχοι:αναθεση αρμοδιωτητων
 
